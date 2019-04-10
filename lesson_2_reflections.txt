@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+nothing important just  create git,because i need a repositery fit create commits to check my version
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+possibility to crete a coomits
